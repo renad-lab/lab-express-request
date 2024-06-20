@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "name": "99-pokemon-express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "K. Rafalski",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.0.3",
+    "supertest": "^6.1.3"
+  }
+}
