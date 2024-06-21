@@ -1064,7 +1064,7 @@
     }
   },
   {
-    "name": "Nidoran?",
+    "name": "Nidoran-F",
     "img": "https://img.pokemondb.net/artwork/nidoran-f.jpg",
     "type": ["Poison"],
     "stats": {
@@ -1178,7 +1178,7 @@
     }
   },
   {
-    "name": "Nidoran?",
+    "name": "Nidoran-M",
     "img": "https://img.pokemondb.net/artwork/nidoran-m.jpg",
     "type": ["Poison"],
     "stats": {
